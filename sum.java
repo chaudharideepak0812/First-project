@@ -1,7 +1,7 @@
 public class sum{
 public static void main(String args[])
 {
-    System.out.prinln("Additoin Funciton");
+    System.out.println("Additoin Funciton");
 }
 
 }
